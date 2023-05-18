@@ -1,5 +1,7 @@
 Something new in repo :
 
-Nothing,.
-Adding x = A
-Adding X = B
+
+Nothing, actually nothing.
+Adding x = 1
+Adding X = 2
+
