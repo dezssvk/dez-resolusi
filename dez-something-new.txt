@@ -1,4 +1,5 @@
 Something new in repo :
 
 Nothing, actually nothing.
-Adding x
+Adding x = 1
+Adding X = 2
